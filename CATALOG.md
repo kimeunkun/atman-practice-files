@@ -15,5 +15,6 @@
 | 05 | 애프터이펙트 기초 5강 · 셰이프와 마스크 — 실습 파일 | [Ye-_2Erex1Y](https://youtu.be/Ye-_2Erex1Y) | [ae-basics-ep05-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep05-v1/ae-basics-ep05-v1.zip) |
 | 06 | 애프터이펙트 기초 6강 · 텍스트 위계와 스태거 — 실습 파일 | [Mq9MYqnBJd8](https://youtu.be/Mq9MYqnBJd8) | [ae-basics-ep06-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep06-v1/ae-basics-ep06-v1.zip) |
 | 07 | 애프터이펙트 기초 7강 · 키네틱 타이포와 패스 몰핑 — 실습 파일 | [X8bbCN-SI7g](https://youtu.be/X8bbCN-SI7g) | [ae-basics-ep07-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep07-v1/ae-basics-ep07-v1.zip) |
+| 08 | 애프터이펙트 기초 8강 · 전환 — 와이프와 텍스트 리빌 — 실습 파일 | [_1bXCHRKuIQ](https://youtu.be/_1bXCHRKuIQ) | [ae-basics-ep08-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep08-v1/ae-basics-ep08-v1.zip) |
 
 이용 조건: 개인 학습·수업 실습에는 자유롭게 쓰셔도 됩니다. 파일 자체를 다른 곳에 다시 올리거나 판매하는 것은 안 됩니다.
