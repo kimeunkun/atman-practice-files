@@ -18,5 +18,6 @@
 | 08 | 애프터이펙트 기초 8강 · 전환 — 와이프와 텍스트 리빌 — 실습 파일 | [_1bXCHRKuIQ](https://youtu.be/_1bXCHRKuIQ) | [ae-basics-ep08-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep08-v1/ae-basics-ep08-v1.zip) |
 | 09 | 애프터이펙트 기초 9강 · 3D와 카메라 — 실습 파일 | [lMZaSYUxNac](https://youtu.be/lMZaSYUxNac) | [ae-basics-ep09-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep09-v1/ae-basics-ep09-v1.zip) |
 | 10 | 애프터이펙트 기초 10강 · 합성 (카메라 트래커 · 그린스크린) — 실습 파일 | [Ie9I2HPgAJY](https://youtu.be/Ie9I2HPgAJY) | [ae-basics-ep10-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep10-v1/ae-basics-ep10-v1.zip) |
+| 11 | 애프터이펙트 기초 11강 · AI 이미지를 레이어로 — 실습 파일 | [2aho528rmyo](https://youtu.be/2aho528rmyo) | [ae-basics-ep11-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep11-v1/ae-basics-ep11-v1.zip) |
 
 이용 조건: 개인 학습·수업 실습에는 자유롭게 쓰셔도 됩니다. 파일 자체를 다른 곳에 다시 올리거나 판매하는 것은 안 됩니다.
