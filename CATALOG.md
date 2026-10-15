@@ -12,5 +12,6 @@
 | 02 | 애프터이펙트 기초 2강 · 첫 화면과 컴포지션 — 실습 파일 | [Eaqy9nLk6KA](https://youtu.be/Eaqy9nLk6KA) | [ae-basics-ep02-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep02-v1/ae-basics-ep02-v1.zip) |
 | 03 | 애프터이펙트 기초 3강 · 키프레임 — 실습 파일 | [y-3-u1YxPJ0](https://youtu.be/y-3-u1YxPJ0) | [ae-basics-ep03-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep03-v1/ae-basics-ep03-v1.zip) |
 | 04 | 애프터이펙트 기초 4강 · 이징과 그래프 에디터 — 실습 파일 | [W5EjXnIGy0g](https://youtu.be/W5EjXnIGy0g) | [ae-basics-ep04-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep04-v1/ae-basics-ep04-v1.zip) |
+| 05 | 애프터이펙트 기초 5강 · 셰이프와 마스크 — 실습 파일 | [Ye-_2Erex1Y](https://youtu.be/Ye-_2Erex1Y) | [ae-basics-ep05-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep05-v1/ae-basics-ep05-v1.zip) |
 
 이용 조건: 개인 학습·수업 실습에는 자유롭게 쓰셔도 됩니다. 파일 자체를 다른 곳에 다시 올리거나 판매하는 것은 안 됩니다.
