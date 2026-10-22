@@ -23,12 +23,13 @@
 | 11 | 애프터이펙트 기초 11강 · AI 이미지를 레이어로 — 실습 파일 | [2aho528rmyo](https://youtu.be/2aho528rmyo) | [ae-basics-ep11-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep11-v1/ae-basics-ep11-v1.zip) |
 | 12 | 애프터이펙트 기초 12강 · 프리미어 프로 기초 — 실습 소스 | [fdPRW5-5wZI](https://youtu.be/fdPRW5-5wZI) | [ae-basics-ep12-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep12-v1/ae-basics-ep12-v1.zip) |
 | 13 | 애프터이펙트 기초 13강 · AI로 편집 속도 올리기 — 실습 소스 | [oB0LPbemgzk](https://youtu.be/oB0LPbemgzk) | [ae-basics-ep13-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep13-v1/ae-basics-ep13-v1.zip) |
+| 14 | 애프터이펙트 기초 14강 · 텍스트 애니메이터 — 실습 파일 | [0xmfIk-OylU](https://youtu.be/0xmfIk-OylU) | [ae-basics-ep14-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep14-v1/ae-basics-ep14-v1.zip) |
 
 <a id="blender-basics"></a>
 ## 블렌더 무료 실무 입문
 
 | 편 | 제목 | 연결 영상 | 받기 |
 |---|---|---|---|
-| EP01 | 블렌더 무료 실무 입문 1강 · 과정 목표와 준비 — 실습 파일 | — | [blender-basics-ep01-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep01-v1/blender-basics-ep01-v1.zip) |
+| 01 | 블렌더 무료 실무 입문 1강 · 과정 목표와 준비 — 실습 파일 | — | [blender-basics-ep01-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep01-v1/blender-basics-ep01-v1.zip) |
 
 이용 조건: 개인 학습·수업 실습에는 자유롭게 쓰셔도 됩니다. 파일 자체를 다른 곳에 다시 올리거나 판매하는 것은 안 됩니다.
