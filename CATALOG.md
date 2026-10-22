@@ -29,6 +29,7 @@
 | 18 | 애프터이펙트 기초 18강 · 수정 요청에 안 무너지는 장면 구조 — 실습 파일 | [JkS1POQoZ-E](https://youtu.be/JkS1POQoZ-E) | [ae-basics-ep18-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep18-v1/ae-basics-ep18-v1.zip) |
 | 19 | 애프터이펙트 기초 19강 · 익스프레션 리그 — 실습 파일 | [Tjh2Rw6CPRw](https://youtu.be/Tjh2Rw6CPRw) | [ae-basics-ep19-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep19-v1/ae-basics-ep19-v1.zip) |
 | 20 | 애프터이펙트 기초 20강 · 자막 템플릿(MOGRT) — 실습 파일 | [_jEYC5gjvJ4](https://youtu.be/_jEYC5gjvJ4) | [ae-basics-ep20-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep20-v1/ae-basics-ep20-v1.zip) |
+| 21 | 애프터이펙트 기초 21강 · 10초 로고 애니메이션 — 실습 파일 | [h2pj18DoQ2Y](https://youtu.be/h2pj18DoQ2Y) | [ae-basics-ep21-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep21-v1/ae-basics-ep21-v1.zip) |
 
 <a id="blender-basics"></a>
 ## 블렌더 무료 실무 입문
