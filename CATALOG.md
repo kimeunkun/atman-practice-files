@@ -24,6 +24,7 @@
 | 12 | 애프터이펙트 기초 12강 · 프리미어 프로 기초 — 실습 소스 | [fdPRW5-5wZI](https://youtu.be/fdPRW5-5wZI) | [ae-basics-ep12-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep12-v1/ae-basics-ep12-v1.zip) |
 | 13 | 애프터이펙트 기초 13강 · AI로 편집 속도 올리기 — 실습 소스 | [oB0LPbemgzk](https://youtu.be/oB0LPbemgzk) | [ae-basics-ep13-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep13-v1/ae-basics-ep13-v1.zip) |
 | 14 | 애프터이펙트 기초 14강 · 텍스트 애니메이터 — 실습 파일 | [0xmfIk-OylU](https://youtu.be/0xmfIk-OylU) | [ae-basics-ep14-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep14-v1/ae-basics-ep14-v1.zip) |
+| 15 | 애프터이펙트 기초 15강 · 라인 애니메이션 — 실습 파일 | [H0wFyA7Bzh0](https://youtu.be/H0wFyA7Bzh0) | [ae-basics-ep15-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep15-v1/ae-basics-ep15-v1.zip) |
 
 <a id="blender-basics"></a>
 ## 블렌더 무료 실무 입문
