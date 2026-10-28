@@ -38,5 +38,6 @@
 | 편 | 제목 | 연결 영상 | 받기 |
 |---|---|---|---|
 | 01 | 블렌더 무료 실무 입문 1강 · 과정 목표와 준비 — 실습 파일 | — | [blender-basics-ep01-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep01-v1/blender-basics-ep01-v1.zip) |
+| 03 | 블렌더 무료 실무 입문 3강 · 파일 받기·증분 저장·복구 — 실습 파일 | [O-zrYn0YZBM](https://youtu.be/O-zrYn0YZBM) | [blender-basics-ep03-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep03-v1/blender-basics-ep03-v1.zip) |
 
 이용 조건: 개인 학습·수업 실습에는 자유롭게 쓰셔도 됩니다. 파일 자체를 다른 곳에 다시 올리거나 판매하는 것은 안 됩니다.
