@@ -3,7 +3,7 @@
 > 자동 생성 — `edu_release.py` 가 릴리스 목록에서 매번 다시 만든다. 손으로 고치지 마세요.
 > 강의별로 묶었고, 편 순서대로 정렬했습니다. '받기'를 누르면 로그인 없이 zip 이 바로 내려받아집니다.
 
-바로 가기: [애프터이펙트 기초 (무료 강의)](#ae-basics) · [블렌더 무료 실무 입문](#blender-basics)
+바로 가기: [애프터이펙트 기초 (무료 강의)](#ae-basics) · [블렌더 무료 실무 입문](#blender-basics) · [도깨비 감투 — AI 영상 기획에서 완성까지](#dokkaebi-lecture)
 
 <a id="ae-basics"></a>
 ## 애프터이펙트 기초 (무료 강의)
@@ -40,5 +40,12 @@
 |---|---|---|---|
 | 01 | 블렌더 무료 실무 입문 1강 · 과정 목표와 준비 — 실습 파일 | [St_jTeGOcRE](https://youtu.be/St_jTeGOcRE) | [blender-basics-ep01-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep01-v1/blender-basics-ep01-v1.zip) |
 | 03 | 블렌더 무료 실무 입문 3강 · 파일 받기·증분 저장·복구 — 실습 파일 | [O-zrYn0YZBM](https://youtu.be/O-zrYn0YZBM) | [blender-basics-ep03-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep03-v1/blender-basics-ep03-v1.zip) |
+
+<a id="dokkaebi-lecture"></a>
+## 도깨비 감투 — AI 영상 기획에서 완성까지
+
+| 편 | 제목 | 연결 영상 | 받기 |
+|---|---|---|---|
+| 03 | 도깨비 감투 3편 · 실수 63건과 막는 순서 — 양식·공간 시트·블렌더 예제 | — | [dokkaebi-lecture-ep03-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/dokkaebi-lecture-ep03-v1/dokkaebi-lecture-ep03-v1.zip) |
 
 이용 조건: 개인 학습·수업 실습에는 자유롭게 쓰셔도 됩니다. 파일 자체를 다른 곳에 다시 올리거나 판매하는 것은 안 됩니다.
