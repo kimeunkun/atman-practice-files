@@ -46,6 +46,6 @@
 
 | 편 | 제목 | 연결 영상 | 받기 |
 |---|---|---|---|
-| 03 | 도깨비 감투 3편 · 실수 63건과 막는 순서 — 양식·공간 시트·블렌더 예제 | — | [dokkaebi-lecture-ep03-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/dokkaebi-lecture-ep03-v1/dokkaebi-lecture-ep03-v1.zip) |
+| 03 | 도깨비 감투 3편 · 실수 63건과 막는 순서 — 양식·공간 시트·블렌더 예제 | [JGWFWF_2h2c](https://youtu.be/JGWFWF_2h2c) | [dokkaebi-lecture-ep03-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/dokkaebi-lecture-ep03-v1/dokkaebi-lecture-ep03-v1.zip) |
 
 이용 조건: 개인 학습·수업 실습에는 자유롭게 쓰셔도 됩니다. 파일 자체를 다른 곳에 다시 올리거나 판매하는 것은 안 됩니다.
