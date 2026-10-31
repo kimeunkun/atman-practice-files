@@ -48,6 +48,7 @@
 | 01 | 블렌더 무료 실무 입문 1강 · 과정 목표와 준비 — 실습 파일 | [St_jTeGOcRE](https://youtu.be/St_jTeGOcRE) | [blender-basics-ep01-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep01-v1/blender-basics-ep01-v1.zip) |
 | 03 | 블렌더 무료 실무 입문 3강 · 파일 받기·증분 저장·복구 — 실습 파일 | [O-zrYn0YZBM](https://youtu.be/O-zrYn0YZBM) | [blender-basics-ep03-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep03-v1/blender-basics-ep03-v1.zip) |
 | 04 | 블렌더 무료 실무 입문 4강 · 화면 다루기·고르기·맞추기 — 실습 파일 | [x7CEabwTOvg](https://youtu.be/x7CEabwTOvg) | [blender-basics-ep04-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep04-v1/blender-basics-ep04-v1.zip) |
+| 05 | 블렌더 무료 실무 입문 5강 · 첫 PNG 렌더와 검은 렌더 고치기 — 실습 파일 | [0IZWB1EUKsQ](https://youtu.be/0IZWB1EUKsQ) | [blender-basics-ep05-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep05-v1/blender-basics-ep05-v1.zip) |
 
 <a id="dokkaebi-lecture"></a>
 ## 도깨비 감투 — AI 영상 기획에서 완성까지
