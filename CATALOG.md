@@ -3,7 +3,7 @@
 > 자동 생성 — `edu_release.py` 가 릴리스 목록에서 매번 다시 만든다. 손으로 고치지 마세요.
 > 강의별로 묶었고, 편 순서대로 정렬했습니다. '받기'를 누르면 로그인 없이 zip 이 바로 내려받아집니다.
 
-바로 가기: [애프터이펙트 기초 (무료 강의)](#ae-basics) · [블렌더 무료 실무 입문](#blender-basics) · [도깨비 감투 — AI 영상 기획에서 완성까지](#dokkaebi-lecture)
+바로 가기: [애프터이펙트 기초 (무료 강의)](#ae-basics) · [AI 영상 제작 과정 전체 공개 (입문 강좌)](#ai-course) · [블렌더 무료 실무 입문](#blender-basics) · [도깨비 감투 — AI 영상 기획에서 완성까지](#dokkaebi-lecture)
 
 <a id="ae-basics"></a>
 ## 애프터이펙트 기초 (무료 강의)
@@ -32,6 +32,13 @@
 | 19 | 애프터이펙트 기초 19강 · 익스프레션 리그 — 실습 파일 | [Tjh2Rw6CPRw](https://youtu.be/Tjh2Rw6CPRw) | [ae-basics-ep19-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep19-v1/ae-basics-ep19-v1.zip) |
 | 20 | 애프터이펙트 기초 20강 · 자막 템플릿(MOGRT) — 실습 파일 | [_jEYC5gjvJ4](https://youtu.be/_jEYC5gjvJ4) | [ae-basics-ep20-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep20-v1/ae-basics-ep20-v1.zip) |
 | 21 | 애프터이펙트 기초 21강 · 10초 로고 애니메이션 — 실습 파일 | [h2pj18DoQ2Y](https://youtu.be/h2pj18DoQ2Y) | [ae-basics-ep21-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ae-basics-ep21-v1/ae-basics-ep21-v1.zip) |
+
+<a id="ai-course"></a>
+## AI 영상 제작 과정 전체 공개 (입문 강좌)
+
+| 편 | 제목 | 연결 영상 | 받기 |
+|---|---|---|---|
+| 04 | 4편 · AI 영상 캐릭터 일관성 — 프롬프트 원문 · 캐릭터 시트 · 공간 시트 · 상태표 양식 | — | [ai-course-ep04-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-course-ep04-v1/ai-course-ep04-v1.zip) |
 
 <a id="blender-basics"></a>
 ## 블렌더 무료 실무 입문
