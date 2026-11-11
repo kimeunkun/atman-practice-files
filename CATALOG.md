@@ -42,6 +42,7 @@
 | 03 | AI 입문자 가이드 3강 · AI는 왜 잊고 틀릴까 — 안내문 · 색칠 표 · 용어 카드 | — | [ai-beginner-ep03-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-beginner-ep03-v1/ai-beginner-ep03-v1.zip) |
 | 04 | AI 입문자 가이드 4강 · API · MCP · 에이전트 — 권한 분류표 · 용어 카드 | — | [ai-beginner-ep04-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-beginner-ep04-v1/ai-beginner-ep04-v1.zip) |
 | 05 | AI 입문자 가이드 5강 · 내 AI 작업 기준 — 빈 양식 · 용어 카드 | — | [ai-beginner-ep05-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-beginner-ep05-v1/ai-beginner-ep05-v1.zip) |
+| 06 | AI 입문자 가이드 6강 · 결과가 달라지는 이유 — 비교표 양식 · 부탁 세 개 | — | [ai-beginner-ep06-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-beginner-ep06-v1/ai-beginner-ep06-v1.zip) |
 
 <a id="ai-course"></a>
 ## AI 영상 제작 과정 전체 공개 (입문 강좌)
