@@ -51,6 +51,7 @@
 | 편 | 제목 | 연결 영상 | 받기 |
 |---|---|---|---|
 | 04 | 4편 · AI 영상 캐릭터 일관성 — 프롬프트 원문 · 캐릭터 시트 · 공간 시트 · 상태표 양식 | — | [ai-course-ep04-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-course-ep04-v1/ai-course-ep04-v1.zip) |
+| 05 | 5편 · 조명 이름을 알면 분위기를 말할 수 있다 — 조명 키워드 · 전체 프롬프트 · 블렌더 조명 세팅 | — | [ai-course-ep05-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-course-ep05-v1/ai-course-ep05-v1.zip) |
 
 <a id="blender-basics"></a>
 ## 블렌더 무료 실무 입문
