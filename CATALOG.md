@@ -67,6 +67,7 @@
 | 07 | 블렌더 무료 실무 입문 7강 · 원점·3D 커서·피벗 — 실습 파일 | [vjvtoujNX8Y](https://youtu.be/vjvtoujNX8Y) | [blender-basics-ep07-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep07-v1/blender-basics-ep07-v1.zip) |
 | 08 | 블렌더 무료 실무 입문 8강 · Object Mode와 Edit Mode — 실습 파일 | [LflYjrrTyBg](https://youtu.be/LflYjrrTyBg) | [blender-basics-ep08-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep08-v1/blender-basics-ep08-v1.zip) |
 | 09 | 블렌더 무료 실무 입문 9강 · Extrude와 Inset — 실습 파일 | [5hHVwv8v9GU](https://youtu.be/5hHVwv8v9GU) | [blender-basics-ep09-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep09-v1/blender-basics-ep09-v1.zip) |
+| 10 | 블렌더 무료 실무 입문 10강 · Loop Cut과 비율 수정 — 실습 파일 | — | [blender-basics-ep10-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep10-v1/blender-basics-ep10-v1.zip) |
 
 <a id="dokkaebi-lecture"></a>
 ## 도깨비 감투 — AI 영상 기획에서 완성까지
