@@ -44,6 +44,7 @@
 | 05 | AI 입문자 가이드 5강 · 내 AI 작업 기준 — 빈 양식 · 용어 카드 | — | [ai-beginner-ep05-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-beginner-ep05-v1/ai-beginner-ep05-v1.zip) |
 | 06 | AI 입문자 가이드 6강 · 결과가 달라지는 이유 — 비교표 양식 · 부탁 세 개 | — | [ai-beginner-ep06-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-beginner-ep06-v1/ai-beginner-ep06-v1.zip) |
 | 07 | AI 입문자 가이드 7강 · 어디까지 맡길까 — 판단표 · 검수 기록 양식 | — | [ai-beginner-ep07-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-beginner-ep07-v1/ai-beginner-ep07-v1.zip) |
+| 08 | AI 입문자 가이드 8강 · 내 AI 가르치기 — 설정 카드 · 지침 · 스킬 폴더 | — | [ai-beginner-ep08-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-beginner-ep08-v1/ai-beginner-ep08-v1.zip) |
 
 <a id="ai-course"></a>
 ## AI 영상 제작 과정 전체 공개 (입문 강좌)
@@ -51,7 +52,7 @@
 | 편 | 제목 | 연결 영상 | 받기 |
 |---|---|---|---|
 | 04 | 4편 · AI 영상 캐릭터 일관성 — 프롬프트 원문 · 캐릭터 시트 · 공간 시트 · 상태표 양식 | — | [ai-course-ep04-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-course-ep04-v1/ai-course-ep04-v1.zip) |
-| 05 | 5편 · 조명 이름을 알면 분위기를 말할 수 있다 — 조명 키워드 · 전체 프롬프트 · 블렌더 조명 세팅 | — | [ai-course-ep05-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-course-ep05-v1/ai-course-ep05-v1.zip) |
+| 05 | 5편 · 조명 이름을 알면 분위기를 말할 수 있다 — 조명 키워드 · 전체 프롬프트 · 블렌더 조명 세팅 | [OgRpKoSlrpc](https://youtu.be/OgRpKoSlrpc) | [ai-course-ep05-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-course-ep05-v1/ai-course-ep05-v1.zip) |
 
 <a id="blender-basics"></a>
 ## 블렌더 무료 실무 입문
