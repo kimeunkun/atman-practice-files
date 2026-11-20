@@ -69,8 +69,8 @@
 | 09 | 블렌더 무료 실무 입문 9강 · Extrude와 Inset — 실습 파일 | [5hHVwv8v9GU](https://youtu.be/5hHVwv8v9GU) | [blender-basics-ep09-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep09-v1/blender-basics-ep09-v1.zip) |
 | 10 | 블렌더 무료 실무 입문 10강 · Loop Cut과 비율 수정 — 실습 파일 | [mOsLXPcj9fs](https://youtu.be/mOsLXPcj9fs) | [blender-basics-ep10-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep10-v1/blender-basics-ep10-v1.zip) |
 | 11 | 블렌더 무료 실무 입문 11강 · Scale 적용과 Bevel — 실습 파일 | [RNjAhx5kDjM](https://youtu.be/RNjAhx5kDjM) | [blender-basics-ep11-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep11-v1/blender-basics-ep11-v1.zip) |
-| 12 | 블렌더 무료 실무 입문 12강 · Solidify·면 방향·메시 검사 — 실습 파일 | — | [blender-basics-ep12-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep12-v1/blender-basics-ep12-v1.zip) |
-| 13 | 블렌더 무료 실무 입문 13강 · Mirror와 대칭 기준 — 실습 파일 | — | [blender-basics-ep13-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep13-v1/blender-basics-ep13-v1.zip) |
+| 12 | 블렌더 무료 실무 입문 12강 · Solidify·면 방향·메시 검사 — 실습 파일 | [3ZscYY2ZoJM](https://youtu.be/3ZscYY2ZoJM) | [blender-basics-ep12-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep12-v1/blender-basics-ep12-v1.zip) |
+| 13 | 블렌더 무료 실무 입문 13강 · Mirror와 대칭 기준 — 실습 파일 | [0lk8xh6EscE](https://youtu.be/0lk8xh6EscE) | [blender-basics-ep13-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep13-v1/blender-basics-ep13-v1.zip) |
 
 <a id="dokkaebi-lecture"></a>
 ## 도깨비 감투 — AI 영상 기획에서 완성까지
