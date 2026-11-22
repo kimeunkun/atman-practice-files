@@ -74,6 +74,7 @@
 | 14 | 블렌더 무료 실무 입문 14강 · Shade Smooth·Auto Smooth 계열·Subdivision — 실습 파일 | — | [blender-basics-ep14-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep14-v1/blender-basics-ep14-v1.zip) |
 | 15 | 블렌더 무료 실무 입문 15강 · Duplicate·Linked Duplicate·Array — 실습 파일 | — | [blender-basics-ep15-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep15-v1/blender-basics-ep15-v1.zip) |
 | 16 | 블렌더 무료 실무 입문 16강 · 이름·Collections·부모 관계 — 실습 파일 | — | [blender-basics-ep16-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep16-v1/blender-basics-ep16-v1.zip) |
+| 17 | 블렌더 무료 실무 입문 17강 · Principled BSDF 기본 재질 — 실습 파일 | — | [blender-basics-ep17-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep17-v1/blender-basics-ep17-v1.zip) |
 
 <a id="dokkaebi-lecture"></a>
 ## 도깨비 감투 — AI 영상 기획에서 완성까지
