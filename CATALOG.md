@@ -72,6 +72,7 @@
 | 12 | 블렌더 무료 실무 입문 12강 · Solidify·면 방향·메시 검사 — 실습 파일 | [3ZscYY2ZoJM](https://youtu.be/3ZscYY2ZoJM) | [blender-basics-ep12-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep12-v1/blender-basics-ep12-v1.zip) |
 | 13 | 블렌더 무료 실무 입문 13강 · Mirror와 대칭 기준 — 실습 파일 | [0lk8xh6EscE](https://youtu.be/0lk8xh6EscE) | [blender-basics-ep13-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep13-v1/blender-basics-ep13-v1.zip) |
 | 14 | 블렌더 무료 실무 입문 14강 · Shade Smooth·Auto Smooth 계열·Subdivision — 실습 파일 | — | [blender-basics-ep14-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep14-v1/blender-basics-ep14-v1.zip) |
+| 15 | 블렌더 무료 실무 입문 15강 · Duplicate·Linked Duplicate·Array — 실습 파일 | — | [blender-basics-ep15-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep15-v1/blender-basics-ep15-v1.zip) |
 
 <a id="dokkaebi-lecture"></a>
 ## 도깨비 감투 — AI 영상 기획에서 완성까지
