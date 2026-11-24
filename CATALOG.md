@@ -53,6 +53,7 @@
 |---|---|---|---|
 | 04 | 4편 · AI 영상 캐릭터 일관성 — 프롬프트 원문 · 캐릭터 시트 · 공간 시트 · 상태표 양식 | — | [ai-course-ep04-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-course-ep04-v1/ai-course-ep04-v1.zip) |
 | 05 | 5편 · 조명 이름을 알면 분위기를 말할 수 있다 — 조명 키워드 · 전체 프롬프트 · 블렌더 조명 세팅 | [OgRpKoSlrpc](https://youtu.be/OgRpKoSlrpc) | [ai-course-ep05-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-course-ep05-v1/ai-course-ep05-v1.zip) |
+| 06 | 6편 · 레이아웃 — 확인용 격자 · 세로 자르기 가이드 · 정리 이미지 | — | [ai-course-ep06-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/ai-course-ep06-v1/ai-course-ep06-v1.zip) |
 
 <a id="blender-basics"></a>
 ## 블렌더 무료 실무 입문
@@ -71,10 +72,10 @@
 | 11 | 블렌더 무료 실무 입문 11강 · Scale 적용과 Bevel — 실습 파일 | [RNjAhx5kDjM](https://youtu.be/RNjAhx5kDjM) | [blender-basics-ep11-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep11-v1/blender-basics-ep11-v1.zip) |
 | 12 | 블렌더 무료 실무 입문 12강 · Solidify·면 방향·메시 검사 — 실습 파일 | [3ZscYY2ZoJM](https://youtu.be/3ZscYY2ZoJM) | [blender-basics-ep12-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep12-v1/blender-basics-ep12-v1.zip) |
 | 13 | 블렌더 무료 실무 입문 13강 · Mirror와 대칭 기준 — 실습 파일 | [0lk8xh6EscE](https://youtu.be/0lk8xh6EscE) | [blender-basics-ep13-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep13-v1/blender-basics-ep13-v1.zip) |
-| 14 | 블렌더 무료 실무 입문 14강 · Shade Smooth·Auto Smooth 계열·Subdivision — 실습 파일 | — | [blender-basics-ep14-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep14-v1/blender-basics-ep14-v1.zip) |
-| 15 | 블렌더 무료 실무 입문 15강 · Duplicate·Linked Duplicate·Array — 실습 파일 | — | [blender-basics-ep15-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep15-v1/blender-basics-ep15-v1.zip) |
-| 16 | 블렌더 무료 실무 입문 16강 · 이름·Collections·부모 관계 — 실습 파일 | — | [blender-basics-ep16-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep16-v1/blender-basics-ep16-v1.zip) |
-| 17 | 블렌더 무료 실무 입문 17강 · Principled BSDF 기본 재질 — 실습 파일 | — | [blender-basics-ep17-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep17-v1/blender-basics-ep17-v1.zip) |
+| 14 | 블렌더 무료 실무 입문 14강 · Shade Smooth·Auto Smooth 계열·Subdivision — 실습 파일 | [fCUcC-Wg4WA](https://youtu.be/fCUcC-Wg4WA) | [blender-basics-ep14-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep14-v1/blender-basics-ep14-v1.zip) |
+| 15 | 블렌더 무료 실무 입문 15강 · Duplicate·Linked Duplicate·Array — 실습 파일 | [_HA4iCUjjM8](https://youtu.be/_HA4iCUjjM8) | [blender-basics-ep15-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep15-v1/blender-basics-ep15-v1.zip) |
+| 16 | 블렌더 무료 실무 입문 16강 · 이름·Collections·부모 관계 — 실습 파일 | [Z3k8X3zIZRk](https://youtu.be/Z3k8X3zIZRk) | [blender-basics-ep16-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep16-v1/blender-basics-ep16-v1.zip) |
+| 17 | 블렌더 무료 실무 입문 17강 · Principled BSDF 기본 재질 — 실습 파일 | [PxKyicRuPFk](https://youtu.be/PxKyicRuPFk) | [blender-basics-ep17-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep17-v1/blender-basics-ep17-v1.zip) |
 | 18 | 블렌더 무료 실무 입문 18강 · 형태를 읽히게 하는 조명 — 실습 파일 | — | [blender-basics-ep18-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep18-v1/blender-basics-ep18-v1.zip) |
 | 19 | 블렌더 무료 실무 입문 19강 · 카메라와 제품 구도 — 실습 파일 | — | [blender-basics-ep19-v1.zip](https://github.com/kimeunkun/atman-practice-files/releases/download/blender-basics-ep19-v1/blender-basics-ep19-v1.zip) |
 
